@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: mypool
+  name: default
   vmImage: myagent
 
 steps:
