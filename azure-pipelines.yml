@@ -8,7 +8,7 @@ trigger:
 
 pool:
   name: mypool
-  vmImage: ubunt
+  vmImage: myagent
 
 steps:
 - task: Maven@3
